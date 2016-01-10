@@ -66,3 +66,7 @@ Description: Large libre font list by Google
 ## [Open Font Library](http://openfontlibrary.org/)
 
 Description: One of the first public libre font collection  
+
+## [Impallari Type](http://www.impallari.com)
+
+Description: Pablo Impallari’s foundry, @impallari On Github
