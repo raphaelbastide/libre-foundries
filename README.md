@@ -3,6 +3,11 @@
 List of libre typeface foundries, and libre typeface lists.  
 If your project is not it this list, I’ll be happy to merge your pull request.
 
+## [Open Foundry](http://open-foundry.com)
+
+Description: Selection of libre / open source fonts, shown on a nicely made website
+Admin: Stefan Endress and Alastair O’Shea
+
 ## [Love Letters](http://www.love-letters.be/)
 
 Description: Git repository of free fonts designed by Sebastien Sanfilippo   
