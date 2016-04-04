@@ -38,12 +38,6 @@ Description: Font list curated by a type lover
 Admin: [@raphaelbastide](https://github.com/raphaelbastide)  
 Based on: [ofont](https://github.com/raphaelbastide/ofont)
 
-## [Supertypo](http://supertypo.anka.io/)
-
-Description: Collection of free fonts  
-Admin: Karol Zaharanski  
-Based on: [ofont](https://github.com/raphaelbastide/ofont)
-
 ## [OSP foundry](http://ospublish.constantvzw.org/foundry/)
 
 Description: The foundry of the collective Open Source Publishing  
